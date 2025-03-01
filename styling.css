@@ -1,9 +1,13 @@
 body {
-	background-color: #D5C6E0;
+	background-color: #f9f9f9;
 }
-h1 {
-	text-align:center;
-  color: yellow;
-	font-family: "Garamond", serif;
-	font-size: 2em;
+ul.nav {
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+	background-color: #3495eb;
 }
+
+li.nav {
+	float: right;
